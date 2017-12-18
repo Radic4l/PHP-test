@@ -1,0 +1,27 @@
+.interface{
+    background-color: #5A7D7D;
+    margin-top: 100px;
+    height: 500px;
+    border: solid white 5px;
+    text-align: center;
+}
+body{
+    background-color: #121919;
+}
+.Date{
+    background-color: #5A7D7D;
+    color: red;
+    border: solid white 5px;
+    margin-top: 100px;
+    margin-left: -50px;
+    text-align: center;
+    font-size: 50px;
+}
+.Money {
+    background-color: #5A7D7D;
+    border: solid white 5px;
+    margin-top: 100px;
+    /*margin-left: 50px;*/
+    text-align: center;
+    font-size: 200px;
+}
