@@ -1,8 +1,8 @@
 # Glossaire PHP
 
-```
-Tableau à remplir.
-```
+
+`Tableau à remplir.`
+
 | Fonction PHP | Rôle à compléter|
 |:------------:|:---------------:|
 |date()        |                 |
