@@ -25,3 +25,11 @@ body{
     text-align: center;
     font-size: 200px;
 }
+.Commande {
+    border: solid black 5px;
+    background-color: white;
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
